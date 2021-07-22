@@ -63,7 +63,7 @@ You can add an icon for your theme, like other types of add-ons, with the follow
 
 ```javascript
   "icons": {
-    "16": "icon.png"
+    "16": "E:\DCIM\ApplePhoto\icon.png"
   },
 ```
 
@@ -76,7 +76,7 @@ Here is a `manifest.json` from a Theme that uses all the above features, thanks 
 ```javascript
 {
   "manifest_version": 2,
-  "name": "Nuvola WebExtension theme",
+  "name": "Ashwan ",
   "version": "1.1",
   "applications": {
     "gecko": {
@@ -86,7 +86,7 @@ Here is a `manifest.json` from a Theme that uses all the above features, thanks 
   },
   "description": "Light theme with some gradients.",
   "icons": {
-    "16": "icon.png"
+    "16": "E:\DCIM\ApplePhoto\icon.png"
   },
   "theme": {
     "colors": {
